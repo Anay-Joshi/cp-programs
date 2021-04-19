@@ -1,8 +1,4 @@
-#include <iostream>
-#include <string>
-#include <vector>
-#include <map>
-#include <sstream>
+#include <bits/stdc++.h>
 using namespace std;
 
 vector<string> dic;
